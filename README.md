@@ -1,15 +1,8 @@
 ### Hi there 👋
 
 
-`I'm Miran, mobile developer currently working with Flutter.`
+`I'm Miran, a Senior Mobile application engineer`
 
- - 🔭 I’m currently working on ... ;)
- - 🌱 I’m currently learning JS
- - 👯 I’m looking to collaborate on Mobile apps
-
--  💬 Ask me about ... Everything
--  📫 How to reach me: ... 
--  ⚡ Fun fact: We live in a simulation 
 
 #### Follow me
 [![Twitter: mira_01001110](https://img.shields.io/twitter/follow/mira_01001110?style=social)](https://twitter.com/mira_01001110)
